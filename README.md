@@ -14,10 +14,10 @@ SVG 요소는 HTML 문서의 일부로 포함될 수 있고, CSS와 JavaScript�
 ${\textsf{\color{red}path 요소}}$<br>
 ${\textsf{\color{red}path}}$ 요소는 SVG에서 가장 강력하고 유연한 도형 요소 중 하나이다. 직선, 곡선, 호 등의 복잡한 도형을 단일 요소로 정의할 수 있습니다.
 ${\textsf{\color{red}path}}$요소는 복잡한 도형과 곡선을 정의하는 데 사용되며, d 속성의 명령어들을 통해 다양한 경로를 그릴 수 있다.
-즉, path 요소로 경로를 줘서 도형을 만들 수 있다.
-${\textsf{\color{red}d 속성 :}}$ <path> 요소의 경로를 정의하는 속성이다. 이 속성에 다양한 명령어를 사용해 경로를 그린다.
-${\textsf{\color{red}stroke 속성 :}}$ 경로의 외곽선 색상을 정의한다.
-${\textsf{\color{red}stroke-width 속성 :}}$ 외곽선의 두께를 설정한다.
+즉, path 요소로 경로를 줘서 도형을 만들 수 있다.<br>
+${\textsf{\color{red}d 속성 :}}$ <path> 요소의 경로를 정의하는 속성이다. 이 속성에 다양한 명령어를 사용해 경로를 그린다.<br>
+${\textsf{\color{red}stroke 속성 :}}$ 경로의 외곽선 색상을 정의한다.<br>
+${\textsf{\color{red}stroke-width 속성 :}}$ 외곽선의 두께를 설정한다.<br>
 ${\textsf{\color{red}fill 속성 :}}$ 도형 내부의 채우기 색상을 설정한다.
 
 
